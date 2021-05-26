@@ -1,0 +1,11 @@
+pageObjects/LandingPage.class
+pageObjects/OrderConfirmationPage.class
+pageObjects/ShippingPage.class
+conf/base.class
+pageObjects/AuthenticationPage.class
+pageObjects/MyAccountPage.class
+pageObjects/ShoppingCartSummaryPage.class
+pageObjects/OrderSummaryPage.class
+pageObjects/AddressesPage.class
+pageObjects/PaymentMethodPage.class
+pageObjects/PersonalInformationPage.class
